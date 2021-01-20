@@ -21,10 +21,10 @@
     "url": "https://github.com/nathanmac/laravel-elixir-imagemin"
   },
   "dependencies": {
-    "gulp-changed": "^1.3.0",
-    "gulp-imagemin": "^4.1.0",
-    "imagemin-pngquant": "^5.1.0",
-    "underscore": "^1.8.3"
+    "gulp-changed": "1.3.0",
+    "gulp-imagemin": "4.1.0",
+    "imagemin-pngquant": "5.1.0",
+    "underscore": "1.8.3"
   },
   "devDependencies": {
     "gulp": "^3.9.1",
